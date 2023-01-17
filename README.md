@@ -21,7 +21,7 @@
 
 > Babel은 JSX로 적은 코드를 브라우저가 이해 할 수 있는 형태로 바꿔주는 역할을 한다.
 
-> function fnName() {return} 과 fnName = () => {} 은 같은 코드이다./
+> function fnName() {return} 과 fnName = () => {} 은 같은 코드이다.
 
 > Component의 첫글자는 대문자여야한다.(소문자일 경우 html의 태그라고 생각함.)
 
